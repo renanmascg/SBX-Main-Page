@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, ButtonBorder } from '../ButtonElement';
+import { ButtonBorder } from '../ButtonElement';
 import { IInfoObjDTO } from '../../core/IInfoObjDTO';
 import { BtnWrap, Column1,Column2, Heading, Img, ImgWrap, InfoContainer, InfoRow, InfoWrapper, Subtitle, TextWrapper, TopLine } from './InfoSectionElements';
 
